@@ -1,0 +1,2 @@
+# Trichandra-campus
+fundamental python
